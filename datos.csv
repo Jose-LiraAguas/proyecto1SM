@@ -1,578 +1,578 @@
-country	year	co2
-Mexico	1891	0.52
-Mexico	1892	0.579
-Mexico	1893	0.531
-Mexico	1894	0.539
-Mexico	1895	0.495
-Mexico	1896	0.579
-Mexico	1897	0.689
-Mexico	1898	0.736
-Mexico	1899	0.755
-Mexico	1900	1
-Mexico	1901	1.312
-Mexico	1902	1.425
-Mexico	1903	1.557
-Mexico	1904	1.718
-Mexico	1905	1.707
-Mexico	1906	1.92
-Mexico	1907	2.264
-Mexico	1908	3.77
-Mexico	1909	3.693
-Mexico	1910	4.155
-Mexico	1911	8.402
-Mexico	1912	8.632
-Mexico	1913	11.743
-Mexico	1914	10.142
-Mexico	1915	14.315
-Mexico	1916	17.184
-Mexico	1917	26.132
-Mexico	1918	30.642
-Mexico	1919	41.084
-Mexico	1920	76.237
-Mexico	1921	90.288
-Mexico	1922	85.551
-Mexico	1923	72.038
-Mexico	1924	67.872
-Mexico	1925	57.085
-Mexico	1926	44.686
-Mexico	1927	31.796
-Mexico	1928	24.083
-Mexico	1929	22.148
-Mexico	1930	20.379
-Mexico	1931	16.752
-Mexico	1932	16.195
-Mexico	1933	16.741
-Mexico	1934	18.892
-Mexico	1935	21.426
-Mexico	1936	21.961
-Mexico	1937	24.903
-Mexico	1938	24.265
-Mexico	1939	22.664
-Mexico	1940	23.209
-Mexico	1941	22.546
-Mexico	1942	18.977
-Mexico	1943	19.058
-Mexico	1944	20.124
-Mexico	1945	22.615
-Mexico	1946	25.623
-Mexico	1947	29.352
-Mexico	1948	30.509
-Mexico	1949	28.959
-Mexico	1950	30.508
-Mexico	1951	34.889
-Mexico	1952	37.212
-Mexico	1953	36.707
-Mexico	1954	36.27
-Mexico	1955	39.662
-Mexico	1956	42.134
-Mexico	1957	49.278
-Mexico	1958	54.008
-Mexico	1959	58.287
-Mexico	1960	63.052
-Mexico	1961	65.24
-Mexico	1962	63.744
-Mexico	1963	66.292
-Mexico	1964	74.2
-Mexico	1965	75.168
-Mexico	1966	80.845
-Mexico	1967	90.006
-Mexico	1968	93.887
-Mexico	1969	102.176
-Mexico	1970	113.951
-Mexico	1971	126.19
-Mexico	1972	132.279
-Mexico	1973	144.072
-Mexico	1974	154.747
-Mexico	1975	164.165
-Mexico	1976	183.774
-Mexico	1977	192.436
-Mexico	1978	222.167
-Mexico	1979	240.321
-Mexico	1980	267.818
-Mexico	1981	283.797
-Mexico	1982	304.01
-Mexico	1983	277.667
-Mexico	1984	276.766
-Mexico	1985	287.511
-Mexico	1986	293.556
-Mexico	1987	306.194
-Mexico	1988	305.849
-Mexico	1989	360.555
-Mexico	1990	317.042
-Mexico	1991	330.133
-Mexico	1992	332.78
-Mexico	1993	338.067
-Mexico	1994	351.528
-Mexico	1995	331.597
-Mexico	1996	345.766
-Mexico	1997	368.645
-Mexico	1998	388.357
-Mexico	1999	390.516
-Mexico	2000	396.066
-Mexico	2001	410.698
-Mexico	2002	411.968
-Mexico	2003	437.758
-Mexico	2004	438.857
-Mexico	2005	463.993
-Mexico	2006	476.565
-Mexico	2007	479.787
-Mexico	2008	492.98
-Mexico	2009	475.903
-Mexico	2010	463.783
-Mexico	2011	484.165
-Mexico	2012	496.3
-Mexico	2013	490.13
-Mexico	2014	481.129
-Mexico	2015	481.975
-Mexico	2016	484.629
-Mexico	2017	461.238
-Mexico	2018	451.081
-Mexico	2019	438.498
-Germany	1792	0.469
-Germany	1793	0.48
-Germany	1794	0.443
-Germany	1795	0.447
-Germany	1796	0.535
-Germany	1797	0.55
-Germany	1798	0.575
-Germany	1799	0.627
-Germany	1800	0.795
-Germany	1801	0.535
-Germany	1802	0.553
-Germany	1803	0.535
-Germany	1804	1.008
-Germany	1805	1.041
-Germany	1806	0.938
-Germany	1807	2.689
-Germany	1808	0.898
-Germany	1809	0.931
-Germany	1810	0.978
-Germany	1811	0.927
-Germany	1812	0.912
-Germany	1813	0.89
-Germany	1814	0.883
-Germany	1815	1.03
-Germany	1816	2.385
-Germany	1817	3.382
-Germany	1818	3.532
-Germany	1819	3.276
-Germany	1820	3.382
-Germany	1821	3.532
-Germany	1822	3.631
-Germany	1823	4.034
-Germany	1824	3.232
-Germany	1825	4.338
-Germany	1826	4.188
-Germany	1827	4.54
-Germany	1828	4.54
-Germany	1829	3.631
-Germany	1830	4.793
-Germany	1831	4.591
-Germany	1832	3.448
-Germany	1833	4.378
-Germany	1834	4.411
-Germany	1835	4.932
-Germany	1836	5.192
-Germany	1837	5.95
-Germany	1838	6.632
-Germany	1839	7.02
-Germany	1840	9.175
-Germany	1841	9.548
-Germany	1842	10.882
-Germany	1843	10.3
-Germany	1844	10.882
-Germany	1845	12.611
-Germany	1846	13.187
-Germany	1847	13.839
-Germany	1848	12.828
-Germany	1849	13.623
-Germany	1850	15.14
-Germany	1851	16.869
-Germany	1852	19.174
-Germany	1853	20.76
-Germany	1854	24.366
-Germany	1855	28.616
-Germany	1856	30.924
-Germany	1857	32.939
-Germany	1858	35.61
-Germany	1859	33.808
-Germany	1860	36.395
-Germany	1861	41.33
-Germany	1862	45.54
-Germany	1863	49.383
-Germany	1864	56.642
-Germany	1865	63.468
-Germany	1866	62.907
-Germany	1867	69.154
-Germany	1868	74.368
-Germany	1869	77.593
-Germany	1870	76.64
-Germany	1871	85.349
-Germany	1872	92.109
-Germany	1873	98.367
-Germany	1874	71.595
-Germany	1875	101.518
-Germany	1876	103.438
-Germany	1877	101.302
-Germany	1878	104.545
-Germany	1879	110.847
-Germany	1880	124.503
-Germany	1881	134.264
-Germany	1882	143.665
-Germany	1883	153.093
-Germany	1884	157.526
-Germany	1885	161.183
-Germany	1886	163.033
-Germany	1887	170.391
-Germany	1888	186.347
-Germany	1889	198.849
-Germany	1890	208.232
-Germany	1891	220.84
-Germany	1892	214.989
-Germany	1893	220.712
-Germany	1894	229.498
-Germany	1895	238.285
-Germany	1896	256.26
-Germany	1897	273.554
-Germany	1898	285.378
-Germany	1899	303.284
-Germany	1900	326.759
-Germany	1901	325.557
-Germany	1902	319.189
-Germany	1903	343.599
-Germany	1904	356.122
-Germany	1905	382.324
-Germany	1906	361.937
-Germany	1907	442.183
-Germany	1908	446.642
-Germany	1909	445.572
-Germany	1910	445.367
-Germany	1911	458.586
-Germany	1912	499.121
-Germany	1913	535.083
-Germany	1914	497.927
-Germany	1915	462.906
-Germany	1916	500.697
-Germany	1917	524.579
-Germany	1918	503.423
-Germany	1919	387.428
-Germany	1920	429.208
-Germany	1921	473.18
-Germany	1922	455.461
-Germany	1923	331.929
-Germany	1924	451.793
-Germany	1925	458.066
-Germany	1926	413.237
-Germany	1927	481.043
-Germany	1928	504.857
-Germany	1929	538.942
-Germany	1930	461.711
-Germany	1931	385.58
-Germany	1932	347.306
-Germany	1933	364.838
-Germany	1934	408.62
-Germany	1935	452.333
-Germany	1936	499.634
-Germany	1937	563.513
-Germany	1938	601.273
-Germany	1939	648.625
-Germany	1940	654.325
-Germany	1941	660.793
-Germany	1942	667.899
-Germany	1943	679.43
-Germany	1944	600.273
-Germany	1945	116.065
-Germany	1946	271.682
-Germany	1947	317.66
-Germany	1948	377.816
-Germany	1949	432.148
-Germany	1950	510.682
-Germany	1951	576.866
-Germany	1952	610.981
-Germany	1953	623.492
-Germany	1954	659.732
-Germany	1955	723.498
-Germany	1956	766.191
-Germany	1957	777.908
-Germany	1958	756.379
-Germany	1959	755.795
-Germany	1960	813.95
-Germany	1961	834.84
-Germany	1962	883.169
-Germany	1963	945.498
-Germany	1964	968.917
-Germany	1965	960.102
-Germany	1966	951.422
-Germany	1967	936.229
-Germany	1968	984.791
-Germany	1969	1052.001
-Germany	1970	1026.022
-Germany	1971	1037.236
-Germany	1972	1041.48
-Germany	1973	1085.736
-Germany	1974	1062.724
-Germany	1975	1002.444
-Germany	1976	1090.837
-Germany	1977	1052.604
-Germany	1978	1079.127
-Germany	1979	1117.882
-Germany	1980	1100.059
-Germany	1981	1048.517
-Germany	1982	1015.727
-Germany	1983	1011.597
-Germany	1984	1033.237
-Germany	1985	1044.11
-Germany	1986	1047.463
-Germany	1987	1032.434
-Germany	1988	1029.014
-Germany	1989	1008.781
-Germany	1990	1052.349
-Germany	1991	1014.2
-Germany	1992	965.89
-Germany	1993	956.233
-Germany	1994	939.63
-Germany	1995	939.177
-Germany	1996	959.124
-Germany	1997	931.23
-Germany	1998	923.276
-Germany	1999	895.643
-Germany	2000	899.78
-Germany	2001	916.366
-Germany	2002	899.821
-Germany	2003	900.866
-Germany	2004	886.966
-Germany	2005	866.389
-Germany	2006	877.997
-Germany	2007	851.383
-Germany	2008	854.706
-Germany	2009	790.196
-Germany	2010	832.67
-Germany	2011	809.427
-Germany	2012	813.893
-Germany	2013	831.316
-Germany	2014	792.685
-Germany	2015	795.816
-Germany	2016	800.51
-Germany	2017	786.655
-Germany	2018	755.362
-Germany	2019	701.955
-United States	1800	0.253
-United States	1801	0.267
-United States	1802	0.289
-United States	1803	0.297
-United States	1804	0.333
-United States	1805	0.341
-United States	1806	0.333
-United States	1807	0.377
-United States	1808	0.392
-United States	1809	0.403
-United States	1810	0.418
-United States	1811	0.447
-United States	1812	0.484
-United States	1813	0.52
-United States	1814	0.561
-United States	1815	0.601
-United States	1816	0.663
-United States	1817	0.718
-United States	1818	0.78
-United States	1819	0.762
-United States	1820	0.791
-United States	1821	0.828
-United States	1822	0.865
-United States	1823	0.901
-United States	1824	1.015
-United States	1825	1.136
-United States	1826	1.315
-United States	1827	1.447
-United States	1828	1.594
-United States	1829	1.795
-United States	1830	2.088
-United States	1831	2.264
-United States	1832	3.023
-United States	1833	3.528
-United States	1834	3.382
-United States	1835	4.316
-United States	1836	4.73
-United States	1837	5.305
-United States	1838	5.031
-United States	1839	5.518
-United States	1840	5.873
-United States	1841	6.214
-United States	1842	6.918
-United States	1843	7.764
-United States	1844	9.307
-United States	1845	11.205
-United States	1846	12.71
-United States	1847	15.07
-United States	1848	16.785
-United States	1849	18.221
-United States	1850	19.793
-United States	1851	24.633
-United States	1852	26.791
-United States	1853	30.162
-United States	1854	33.159
-United States	1855	38.161
-United States	1856	40.037
-United States	1857	41.055
-United States	1858	41.649
-United States	1859	45.32
-United States	1860	47.438
-United States	1861	45.679
-United States	1862	47.449
-United States	1863	54.81
-United States	1864	58.657
-United States	1865	58.822
-United States	1866	59.232
-United States	1867	72.866
-United States	1868	82.352
-United States	1869	93.696
-United States	1870	98.62
-United States	1871	103.021
-United States	1872	126.305
-United States	1873	139.507
-United States	1874	134.297
-United States	1875	135.748
-United States	1876	132.82
-United States	1877	147.176
-United States	1878	143.904
-United States	1879	175.469
-United States	1880	198.684
-United States	1881	210.193
-United States	1882	235.394
-United States	1883	253.882
-United States	1884	267.589
-United States	1885	272.162
-United States	1886	287.463
-United States	1887	307.38
-United States	1888	373.875
-United States	1889	335.542
-United States	1890	401.747
-United States	1891	427.424
-United States	1892	450.448
-United States	1893	454.094
-United States	1894	425.05
-United States	1895	479.947
-United States	1896	480.882
-United States	1897	500.286
-United States	1898	545.32
-United States	1899	625.533
-United States	1900	664.123
-United States	1901	723.182
-United States	1902	766.638
-United States	1903	896.937
-United States	1904	882.953
-United States	1905	987.989
-United States	1906	1037.809
-United States	1907	1206.404
-United States	1908	1055.659
-United States	1909	1169.267
-United States	1910	1276.14
-United States	1911	1263.459
-United States	1912	1348.625
-United States	1913	1448.384
-United States	1914	1323.621
-United States	1915	1372.983
-United States	1916	1524.475
-United States	1917	1676.786
-United States	1918	1751.951
-United States	1919	1484.188
-United States	1920	1744.765
-United States	1921	1430.738
-United States	1922	1443.529
-United States	1923	1906.245
-United States	1924	1708.89
-United States	1925	1755.017
-United States	1926	1902.952
-United States	1927	1859.812
-United States	1928	1827.936
-United States	1929	1960.553
-United States	1930	1742.555
-United States	1931	1483.059
-United States	1932	1256.453
-United States	1933	1347.302
-United States	1934	1434.583
-United States	1935	1490.299
-United States	1936	1710.857
-United States	1937	1789.832
-United States	1938	1513.492
-United States	1939	1667.993
-United States	1940	1871.653
-United States	1941	2039.421
-United States	1942	2194.073
-United States	1943	2267.575
-United States	1944	2440.436
-United States	1945	2355.413
-United States	1946	2253.295
-United States	1947	2481.044
-United States	1948	2577.397
-United States	1949	2160.38
-United States	1950	2536.096
-United States	1951	2612.719
-United States	1952	2545.38
-United States	1953	2606.057
-United States	1954	2483.296
-United States	1955	2721.023
-United States	1956	2852.385
-United States	1957	2828.311
-United States	1958	2740.357
-United States	1959	2823.005
-United States	1960	2887.82
-United States	1961	2877.37
-United States	1962	2984.002
-United States	1963	3116.022
-United States	1964	3252.755
-United States	1965	3388.193
-United States	1966	3559.179
-United States	1967	3693.298
-United States	1968	3828.306
-United States	1969	4021.503
-United States	1970	4325.501
-United States	1971	4351.309
-United States	1972	4558.453
-United States	1973	4762.452
-United States	1974	4592.958
-United States	1975	4400.795
-United States	1976	4607.168
-United States	1977	4735.366
-United States	1978	4882.964
-United States	1979	4894.043
-United States	1980	4716.716
-United States	1981	4530.37
-United States	1982	4301.971
-United States	1983	4335.917
-United States	1984	4468.262
-United States	1985	4484.338
-United States	1986	4487.856
-United States	1987	4680.834
-United States	1988	4885.591
-United States	1989	4948.021
-United States	1990	5128.301
-United States	1991	5078.89
-United States	1992	5182.707
-United States	1993	5283.438
-United States	1994	5377.033
-United States	1995	5438.906
-United States	1996	5626.912
-United States	1997	5703.707
-United States	1998	5751.052
-United States	1999	5830.298
-United States	2000	5998.07
-United States	2001	5900.437
-United States	2002	5942.652
-United States	2003	5991.96
-United States	2004	6107.618
-United States	2005	6131.893
-United States	2006	6051.051
-United States	2007	6128.43
-United States	2008	5930.54
-United States	2009	5491.036
-United States	2010	5698.056
-United States	2011	5565.294
-United States	2012	5367.569
-United States	2013	5514.029
-United States	2014	5561.719
-United States	2015	5412.432
-United States	2016	5292.268
-United States	2017	5253.606
-United States	2018	5424.882
-United States	2019	5284.697
+country,year,co2
+Mexico,1891,0.52
+Mexico,1892,0.579
+Mexico,1893,0.531
+Mexico,1894,0.539
+Mexico,1895,0.495
+Mexico,1896,0.579
+Mexico,1897,0.689
+Mexico,1898,0.736
+Mexico,1899,0.755
+Mexico,1900,1
+Mexico,1901,1.312
+Mexico,1902,1.425
+Mexico,1903,1.557
+Mexico,1904,1.718
+Mexico,1905,1.707
+Mexico,1906,1.92
+Mexico,1907,2.264
+Mexico,1908,3.77
+Mexico,1909,3.693
+Mexico,1910,4.155
+Mexico,1911,8.402
+Mexico,1912,8.632
+Mexico,1913,11.743
+Mexico,1914,10.142
+Mexico,1915,14.315
+Mexico,1916,17.184
+Mexico,1917,26.132
+Mexico,1918,30.642
+Mexico,1919,41.084
+Mexico,1920,76.237
+Mexico,1921,90.288
+Mexico,1922,85.551
+Mexico,1923,72.038
+Mexico,1924,67.872
+Mexico,1925,57.085
+Mexico,1926,44.686
+Mexico,1927,31.796
+Mexico,1928,24.083
+Mexico,1929,22.148
+Mexico,1930,20.379
+Mexico,1931,16.752
+Mexico,1932,16.195
+Mexico,1933,16.741
+Mexico,1934,18.892
+Mexico,1935,21.426
+Mexico,1936,21.961
+Mexico,1937,24.903
+Mexico,1938,24.265
+Mexico,1939,22.664
+Mexico,1940,23.209
+Mexico,1941,22.546
+Mexico,1942,18.977
+Mexico,1943,19.058
+Mexico,1944,20.124
+Mexico,1945,22.615
+Mexico,1946,25.623
+Mexico,1947,29.352
+Mexico,1948,30.509
+Mexico,1949,28.959
+Mexico,1950,30.508
+Mexico,1951,34.889
+Mexico,1952,37.212
+Mexico,1953,36.707
+Mexico,1954,36.27
+Mexico,1955,39.662
+Mexico,1956,42.134
+Mexico,1957,49.278
+Mexico,1958,54.008
+Mexico,1959,58.287
+Mexico,1960,63.052
+Mexico,1961,65.24
+Mexico,1962,63.744
+Mexico,1963,66.292
+Mexico,1964,74.2
+Mexico,1965,75.168
+Mexico,1966,80.845
+Mexico,1967,90.006
+Mexico,1968,93.887
+Mexico,1969,102.176
+Mexico,1970,113.951
+Mexico,1971,126.19
+Mexico,1972,132.279
+Mexico,1973,144.072
+Mexico,1974,154.747
+Mexico,1975,164.165
+Mexico,1976,183.774
+Mexico,1977,192.436
+Mexico,1978,222.167
+Mexico,1979,240.321
+Mexico,1980,267.818
+Mexico,1981,283.797
+Mexico,1982,304.01
+Mexico,1983,277.667
+Mexico,1984,276.766
+Mexico,1985,287.511
+Mexico,1986,293.556
+Mexico,1987,306.194
+Mexico,1988,305.849
+Mexico,1989,360.555
+Mexico,1990,317.042
+Mexico,1991,330.133
+Mexico,1992,332.78
+Mexico,1993,338.067
+Mexico,1994,351.528
+Mexico,1995,331.597
+Mexico,1996,345.766
+Mexico,1997,368.645
+Mexico,1998,388.357
+Mexico,1999,390.516
+Mexico,2000,396.066
+Mexico,2001,410.698
+Mexico,2002,411.968
+Mexico,2003,437.758
+Mexico,2004,438.857
+Mexico,2005,463.993
+Mexico,2006,476.565
+Mexico,2007,479.787
+Mexico,2008,492.98
+Mexico,2009,475.903
+Mexico,2010,463.783
+Mexico,2011,484.165
+Mexico,2012,496.3
+Mexico,2013,490.13
+Mexico,2014,481.129
+Mexico,2015,481.975
+Mexico,2016,484.629
+Mexico,2017,461.238
+Mexico,2018,451.081
+Mexico,2019,438.498
+Germany,1792,0.469
+Germany,1793,0.48
+Germany,1794,0.443
+Germany,1795,0.447
+Germany,1796,0.535
+Germany,1797,0.55
+Germany,1798,0.575
+Germany,1799,0.627
+Germany,1800,0.795
+Germany,1801,0.535
+Germany,1802,0.553
+Germany,1803,0.535
+Germany,1804,1.008
+Germany,1805,1.041
+Germany,1806,0.938
+Germany,1807,2.689
+Germany,1808,0.898
+Germany,1809,0.931
+Germany,1810,0.978
+Germany,1811,0.927
+Germany,1812,0.912
+Germany,1813,0.89
+Germany,1814,0.883
+Germany,1815,1.03
+Germany,1816,2.385
+Germany,1817,3.382
+Germany,1818,3.532
+Germany,1819,3.276
+Germany,1820,3.382
+Germany,1821,3.532
+Germany,1822,3.631
+Germany,1823,4.034
+Germany,1824,3.232
+Germany,1825,4.338
+Germany,1826,4.188
+Germany,1827,4.54
+Germany,1828,4.54
+Germany,1829,3.631
+Germany,1830,4.793
+Germany,1831,4.591
+Germany,1832,3.448
+Germany,1833,4.378
+Germany,1834,4.411
+Germany,1835,4.932
+Germany,1836,5.192
+Germany,1837,5.95
+Germany,1838,6.632
+Germany,1839,7.02
+Germany,1840,9.175
+Germany,1841,9.548
+Germany,1842,10.882
+Germany,1843,10.3
+Germany,1844,10.882
+Germany,1845,12.611
+Germany,1846,13.187
+Germany,1847,13.839
+Germany,1848,12.828
+Germany,1849,13.623
+Germany,1850,15.14
+Germany,1851,16.869
+Germany,1852,19.174
+Germany,1853,20.76
+Germany,1854,24.366
+Germany,1855,28.616
+Germany,1856,30.924
+Germany,1857,32.939
+Germany,1858,35.61
+Germany,1859,33.808
+Germany,1860,36.395
+Germany,1861,41.33
+Germany,1862,45.54
+Germany,1863,49.383
+Germany,1864,56.642
+Germany,1865,63.468
+Germany,1866,62.907
+Germany,1867,69.154
+Germany,1868,74.368
+Germany,1869,77.593
+Germany,1870,76.64
+Germany,1871,85.349
+Germany,1872,92.109
+Germany,1873,98.367
+Germany,1874,71.595
+Germany,1875,101.518
+Germany,1876,103.438
+Germany,1877,101.302
+Germany,1878,104.545
+Germany,1879,110.847
+Germany,1880,124.503
+Germany,1881,134.264
+Germany,1882,143.665
+Germany,1883,153.093
+Germany,1884,157.526
+Germany,1885,161.183
+Germany,1886,163.033
+Germany,1887,170.391
+Germany,1888,186.347
+Germany,1889,198.849
+Germany,1890,208.232
+Germany,1891,220.84
+Germany,1892,214.989
+Germany,1893,220.712
+Germany,1894,229.498
+Germany,1895,238.285
+Germany,1896,256.26
+Germany,1897,273.554
+Germany,1898,285.378
+Germany,1899,303.284
+Germany,1900,326.759
+Germany,1901,325.557
+Germany,1902,319.189
+Germany,1903,343.599
+Germany,1904,356.122
+Germany,1905,382.324
+Germany,1906,361.937
+Germany,1907,442.183
+Germany,1908,446.642
+Germany,1909,445.572
+Germany,1910,445.367
+Germany,1911,458.586
+Germany,1912,499.121
+Germany,1913,535.083
+Germany,1914,497.927
+Germany,1915,462.906
+Germany,1916,500.697
+Germany,1917,524.579
+Germany,1918,503.423
+Germany,1919,387.428
+Germany,1920,429.208
+Germany,1921,473.18
+Germany,1922,455.461
+Germany,1923,331.929
+Germany,1924,451.793
+Germany,1925,458.066
+Germany,1926,413.237
+Germany,1927,481.043
+Germany,1928,504.857
+Germany,1929,538.942
+Germany,1930,461.711
+Germany,1931,385.58
+Germany,1932,347.306
+Germany,1933,364.838
+Germany,1934,408.62
+Germany,1935,452.333
+Germany,1936,499.634
+Germany,1937,563.513
+Germany,1938,601.273
+Germany,1939,648.625
+Germany,1940,654.325
+Germany,1941,660.793
+Germany,1942,667.899
+Germany,1943,679.43
+Germany,1944,600.273
+Germany,1945,116.065
+Germany,1946,271.682
+Germany,1947,317.66
+Germany,1948,377.816
+Germany,1949,432.148
+Germany,1950,510.682
+Germany,1951,576.866
+Germany,1952,610.981
+Germany,1953,623.492
+Germany,1954,659.732
+Germany,1955,723.498
+Germany,1956,766.191
+Germany,1957,777.908
+Germany,1958,756.379
+Germany,1959,755.795
+Germany,1960,813.95
+Germany,1961,834.84
+Germany,1962,883.169
+Germany,1963,945.498
+Germany,1964,968.917
+Germany,1965,960.102
+Germany,1966,951.422
+Germany,1967,936.229
+Germany,1968,984.791
+Germany,1969,1052.001
+Germany,1970,1026.022
+Germany,1971,1037.236
+Germany,1972,1041.48
+Germany,1973,1085.736
+Germany,1974,1062.724
+Germany,1975,1002.444
+Germany,1976,1090.837
+Germany,1977,1052.604
+Germany,1978,1079.127
+Germany,1979,1117.882
+Germany,1980,1100.059
+Germany,1981,1048.517
+Germany,1982,1015.727
+Germany,1983,1011.597
+Germany,1984,1033.237
+Germany,1985,1044.11
+Germany,1986,1047.463
+Germany,1987,1032.434
+Germany,1988,1029.014
+Germany,1989,1008.781
+Germany,1990,1052.349
+Germany,1991,1014.2
+Germany,1992,965.89
+Germany,1993,956.233
+Germany,1994,939.63
+Germany,1995,939.177
+Germany,1996,959.124
+Germany,1997,931.23
+Germany,1998,923.276
+Germany,1999,895.643
+Germany,2000,899.78
+Germany,2001,916.366
+Germany,2002,899.821
+Germany,2003,900.866
+Germany,2004,886.966
+Germany,2005,866.389
+Germany,2006,877.997
+Germany,2007,851.383
+Germany,2008,854.706
+Germany,2009,790.196
+Germany,2010,832.67
+Germany,2011,809.427
+Germany,2012,813.893
+Germany,2013,831.316
+Germany,2014,792.685
+Germany,2015,795.816
+Germany,2016,800.51
+Germany,2017,786.655
+Germany,2018,755.362
+Germany,2019,701.955
+United States,1800,0.253
+United States,1801,0.267
+United States,1802,0.289
+United States,1803,0.297
+United States,1804,0.333
+United States,1805,0.341
+United States,1806,0.333
+United States,1807,0.377
+United States,1808,0.392
+United States,1809,0.403
+United States,1810,0.418
+United States,1811,0.447
+United States,1812,0.484
+United States,1813,0.52
+United States,1814,0.561
+United States,1815,0.601
+United States,1816,0.663
+United States,1817,0.718
+United States,1818,0.78
+United States,1819,0.762
+United States,1820,0.791
+United States,1821,0.828
+United States,1822,0.865
+United States,1823,0.901
+United States,1824,1.015
+United States,1825,1.136
+United States,1826,1.315
+United States,1827,1.447
+United States,1828,1.594
+United States,1829,1.795
+United States,1830,2.088
+United States,1831,2.264
+United States,1832,3.023
+United States,1833,3.528
+United States,1834,3.382
+United States,1835,4.316
+United States,1836,4.73
+United States,1837,5.305
+United States,1838,5.031
+United States,1839,5.518
+United States,1840,5.873
+United States,1841,6.214
+United States,1842,6.918
+United States,1843,7.764
+United States,1844,9.307
+United States,1845,11.205
+United States,1846,12.71
+United States,1847,15.07
+United States,1848,16.785
+United States,1849,18.221
+United States,1850,19.793
+United States,1851,24.633
+United States,1852,26.791
+United States,1853,30.162
+United States,1854,33.159
+United States,1855,38.161
+United States,1856,40.037
+United States,1857,41.055
+United States,1858,41.649
+United States,1859,45.32
+United States,1860,47.438
+United States,1861,45.679
+United States,1862,47.449
+United States,1863,54.81
+United States,1864,58.657
+United States,1865,58.822
+United States,1866,59.232
+United States,1867,72.866
+United States,1868,82.352
+United States,1869,93.696
+United States,1870,98.62
+United States,1871,103.021
+United States,1872,126.305
+United States,1873,139.507
+United States,1874,134.297
+United States,1875,135.748
+United States,1876,132.82
+United States,1877,147.176
+United States,1878,143.904
+United States,1879,175.469
+United States,1880,198.684
+United States,1881,210.193
+United States,1882,235.394
+United States,1883,253.882
+United States,1884,267.589
+United States,1885,272.162
+United States,1886,287.463
+United States,1887,307.38
+United States,1888,373.875
+United States,1889,335.542
+United States,1890,401.747
+United States,1891,427.424
+United States,1892,450.448
+United States,1893,454.094
+United States,1894,425.05
+United States,1895,479.947
+United States,1896,480.882
+United States,1897,500.286
+United States,1898,545.32
+United States,1899,625.533
+United States,1900,664.123
+United States,1901,723.182
+United States,1902,766.638
+United States,1903,896.937
+United States,1904,882.953
+United States,1905,987.989
+United States,1906,1037.809
+United States,1907,1206.404
+United States,1908,1055.659
+United States,1909,1169.267
+United States,1910,1276.14
+United States,1911,1263.459
+United States,1912,1348.625
+United States,1913,1448.384
+United States,1914,1323.621
+United States,1915,1372.983
+United States,1916,1524.475
+United States,1917,1676.786
+United States,1918,1751.951
+United States,1919,1484.188
+United States,1920,1744.765
+United States,1921,1430.738
+United States,1922,1443.529
+United States,1923,1906.245
+United States,1924,1708.89
+United States,1925,1755.017
+United States,1926,1902.952
+United States,1927,1859.812
+United States,1928,1827.936
+United States,1929,1960.553
+United States,1930,1742.555
+United States,1931,1483.059
+United States,1932,1256.453
+United States,1933,1347.302
+United States,1934,1434.583
+United States,1935,1490.299
+United States,1936,1710.857
+United States,1937,1789.832
+United States,1938,1513.492
+United States,1939,1667.993
+United States,1940,1871.653
+United States,1941,2039.421
+United States,1942,2194.073
+United States,1943,2267.575
+United States,1944,2440.436
+United States,1945,2355.413
+United States,1946,2253.295
+United States,1947,2481.044
+United States,1948,2577.397
+United States,1949,2160.38
+United States,1950,2536.096
+United States,1951,2612.719
+United States,1952,2545.38
+United States,1953,2606.057
+United States,1954,2483.296
+United States,1955,2721.023
+United States,1956,2852.385
+United States,1957,2828.311
+United States,1958,2740.357
+United States,1959,2823.005
+United States,1960,2887.82
+United States,1961,2877.37
+United States,1962,2984.002
+United States,1963,3116.022
+United States,1964,3252.755
+United States,1965,3388.193
+United States,1966,3559.179
+United States,1967,3693.298
+United States,1968,3828.306
+United States,1969,4021.503
+United States,1970,4325.501
+United States,1971,4351.309
+United States,1972,4558.453
+United States,1973,4762.452
+United States,1974,4592.958
+United States,1975,4400.795
+United States,1976,4607.168
+United States,1977,4735.366
+United States,1978,4882.964
+United States,1979,4894.043
+United States,1980,4716.716
+United States,1981,4530.37
+United States,1982,4301.971
+United States,1983,4335.917
+United States,1984,4468.262
+United States,1985,4484.338
+United States,1986,4487.856
+United States,1987,4680.834
+United States,1988,4885.591
+United States,1989,4948.021
+United States,1990,5128.301
+United States,1991,5078.89
+United States,1992,5182.707
+United States,1993,5283.438
+United States,1994,5377.033
+United States,1995,5438.906
+United States,1996,5626.912
+United States,1997,5703.707
+United States,1998,5751.052
+United States,1999,5830.298
+United States,2000,5998.07
+United States,2001,5900.437
+United States,2002,5942.652
+United States,2003,5991.96
+United States,2004,6107.618
+United States,2005,6131.893
+United States,2006,6051.051
+United States,2007,6128.43
+United States,2008,5930.54
+United States,2009,5491.036
+United States,2010,5698.056
+United States,2011,5565.294
+United States,2012,5367.569
+United States,2013,5514.029
+United States,2014,5561.719
+United States,2015,5412.432
+United States,2016,5292.268
+United States,2017,5253.606
+United States,2018,5424.882
+United States,2019,5284.697
